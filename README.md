@@ -6,4 +6,6 @@ This repo contains my web development projects that I have worked on. This are t
 ![image](https://user-images.githubusercontent.com/46574484/213931385-3716f1f0-4c07-474e-bb57-598fd30884c7.png)
 3) this is the Css flexbox photo gallery app where I worked on with flex properties in css.
 ![image](https://user-images.githubusercontent.com/46574484/213931531-bcf07960-e92c-41b9-80ab-46b6912dae8d.png)
-
+4) rothko painting was the project where I learnt CSS most it was great learning.
+![image](https://user-images.githubusercontent.com/46574484/213931664-c6aa58a3-d0b8-4c41-bc4d-04099f288f45.png)
+ 
